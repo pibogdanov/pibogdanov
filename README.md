@@ -1,7 +1,7 @@
 Young programmer from Bulgaria who loves technology!
 
 I use: <br> 
-<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo-500x313.png" alt="windows" width="40" height="40"/> on <img src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667" alt="windows" width="40" height="40"/>
+<img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo-500x313.png" alt="windows" width="40" height="40"/> on <img src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667" alt="windows" width="40" height="40"/>10
 <br>
 <br>
 For business:
