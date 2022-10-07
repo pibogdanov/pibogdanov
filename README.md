@@ -1,7 +1,7 @@
 Young programmer from Bulgaria who loves technology!
 
-I use: <br>
-<img src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667" alt="windows" width="40" height="40"/>
+I use: <br> 
+<img src="https://user-images.githubusercontent.com/29654835/27530004-e789a11e-5a13-11e7-8a34-870da7e678ac.PNG" alt="windows" width="40" height="40"/> on <img src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667" alt="windows" width="40" height="40"/>
 <br>
 <br>
 For business:
@@ -44,4 +44,5 @@ My Gmail
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pibogdanov&show_icons=true&locale=en" alt="pibogdanov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pibogdanov&" alt="pibogdanov" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pibogdanov&" alt="pibogdanov" /></p> <br> <br>
+Cool place for pics https://github.com/edent/SuperTinyIcons
