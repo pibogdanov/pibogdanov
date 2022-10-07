@@ -1,7 +1,5 @@
 **'Young programmer from Bulgaria who loves technology and to make programs!'**
 
-<!--
-**pibogdanov/pibogdanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 🧰 Languages and Tools
 
