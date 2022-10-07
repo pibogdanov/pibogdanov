@@ -1,4 +1,4 @@
-**'Young programmer from Bulgaria who loves technology and to make programs!'**
+Young programmer from Bulgaria who loves technology and to make programs!
 
 
 ### 🧰 Languages and Tools
