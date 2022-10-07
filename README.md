@@ -4,10 +4,10 @@ I use: <br>
 <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo-500x313.png" alt="windows" width="40" height="40"/> on  <img src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667" alt="windows" width="40" height="40"/>  10
 <br>
 <br>
-For business:
+<em>For business:
 <br>
 My Gmail
-<a href="https://mail.google.com/" target="blank"><img align="center" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" height="30" width="40" /></a>petarbogdanov0412@gmail.com
+<a href="https://mail.google.com/" target="blank"><img align="center" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" height="30" width="40" /></a>petarbogdanov0412@gmail.com</em>
 
 
 ### 🧰 Languages and Tools
