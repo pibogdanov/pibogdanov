@@ -15,7 +15,7 @@ Young programmer from Bulgaria who loves technology!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://steamcommunity.com/id/PIBogdanov/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ASteam_icon_logo.svg&psig=AOvVaw3AZN9Mq-0vqfu1lcOt-KYr&ust=1665259227024000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJjE3Zj0zvoCFQAAAAAdAAAAABAD" alt="PIBogdanov" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/id/PIBogdanov/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fsteam&psig=AOvVaw067znKb_mJ_0arvcKt0h49&ust=1665259575735000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPCWrb71zvoCFQAAAAAdAAAAABAD" alt="PIBogdanov" height="30" width="40" /></a>
 <a href="https://discord.gg/ZhCHc4c5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZhCHc4c5" height="30" width="40" /></a>
 </p>
 
