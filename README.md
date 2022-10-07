@@ -1,6 +1,10 @@
 Young programmer from Bulgaria who loves technology!
 
 
+For business:
+<img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="petarbogdanov0412@gmail.com" width="40" height="40"/>
+
+
 ### 🧰 Languages and Tools
 
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -31,7 +35,7 @@ Young programmer from Bulgaria who loves technology!
  
 </p>
 
-
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pibogdanov&show_icons=true&locale=en" alt="pibogdanov" /></p>
 
