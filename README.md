@@ -1,4 +1,4 @@
-Young programmer from Bulgaria who loves technology and to make programs!
+Young programmer from Bulgaria who loves technology!
 
 
 ### 🧰 Languages and Tools
@@ -15,8 +15,8 @@ Young programmer from Bulgaria who loves technology and to make programs!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pibogdanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pibogdanov" height="30" width="40" /></a>
-<a href="https://discord.gg/ZhCHc4c5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZhCHc4c5" height="30" width="40" /></a>
+<a href="https://twitter.com/pibogdanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pibogdanov" height="30" width="40"/></a>
+<a href="https://discord.gg/ZhCHc4c5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZhCHc4c5" height="30" width="40"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pibogdanov&show_icons=true&locale=en&layout=compact" alt="pibogdanov" /></p>
