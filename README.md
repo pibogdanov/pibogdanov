@@ -26,6 +26,10 @@ Young programmer from Bulgaria who loves technology!
 <a href="https://www.twitch.tv/pibogdanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/e9b60076c672159b441c7054f765635a5a30683a/topics/twitch/twitch.png" alt="pibogdanov" height="30" width="40" /></a> - My Twitch profile
  
 <a href="https://twitter.com/PIBogdanov" target="blank"><img align="center" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="@PIBogdanov" height="30" width="40" /></a>- My Twitter profile
+ 
+<a href="https://www.reddit.com/user/petarbest1" target="blank"><img align="center" src="https://camo.githubusercontent.com/521640dc2dba501cde1805c0a42cecf5ccf7fc1378f542fe9fda756fb36add25/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265646469742e737667" alt="u/petarbest1" height="30" width="40" /></a>  
+- My Reddit profile
+ 
 </p>
 
 
