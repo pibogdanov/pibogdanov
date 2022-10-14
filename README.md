@@ -1,29 +1,38 @@
 Young programmer from Bulgaria who loves technology!
 
+<p1>
 I use: <br> 
 <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo-500x313.png" alt="windows" width="40" height="40"/> on  <img src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667" alt="windows" width="40" height="40"/>  10
+</p1>
 <br>
 <br>
-<em>For business:
+<br>
+<br>
+<p2>
+<em>
+For business:
 <br>
 My Gmail
-<a href="https://mail.google.com/" target="blank"><img align="center" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" height="30" width="40" /></a>petarbogdanov0412@gmail.com</em>
-
+<a href="https://mail.google.com/" target="blank"><img align="center" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" height="30" width="40" /></a>petarbogdanov0412@gmail.com
+</em>
+</p2>
 
 ### 🧰 Languages and Tools
 
-<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<p3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png" alt="mssql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"></p>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"></p3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pibogdanov&label=Profile%20views&color=0e75b6&style=flat" alt="pibogdanov" /> </p>
+<p4 align="left"> <img src="https://komarev.com/ghpvc/?username=pibogdanov&label=Profile%20views&color=0e75b6&style=flat" alt="pibogdanov" /> </p4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pibogdanov" alt="pibogdanov" /></a> </p>
+<p5 align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pibogdanov" alt="pibogdanov" /></a> 
+</p5>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p6 align="left">
 <a href="https://discord.gg/ZhCHc4c5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZhCHc4c5" height="30" width="40" /></a>  
 - My Discord Server
 
