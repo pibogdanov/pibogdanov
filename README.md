@@ -25,7 +25,7 @@ My Gmail
 <p5 align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pibogdanov" alt="pibogdanov" /></a> 
 </p5>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p6 align="left">
 <a href="https://discord.gg/ZhCHc4c5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZhCHc4c5" height="30" width="40" /></a>  
 <a href="https://steamcommunity.com/id/PIBogdanov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/84354664714c333c785c6f2cb9b77d2514014ef8/topics/steam/steam.png" alt="PIBogdanov" height="30" width="40" /></a>
